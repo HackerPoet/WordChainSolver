@@ -1,0 +1,2 @@
+python WordChainSolver.py
+pause
