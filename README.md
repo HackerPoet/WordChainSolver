@@ -9,6 +9,8 @@ However, you may use any dictionary by replacing the word list file `WORD_LIST` 
 By default, word lengths are 3 letters, but you can change `WORD_LEN` to any number.
 Once the dictionary and word length are set, just run `python WordChainSolver.py` to begin. You can choose 2 words and the program will print the optimal path to get there. It will also generate the **graph.dot** file.
 
+**WARNING:** The word list included here is completely unfiltered and may include slurs and other offensive words. You should consider using a different dictionary if you need everything clean.
+
 ## Viewing The Graphs
 
 If you'd like to make graphs like the video, follow these steps.
